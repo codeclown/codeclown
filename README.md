@@ -6,6 +6,7 @@
 
 - [yea](https://github.com/codeclown/yea) – Immutable-style AJAX library for the browser (JS)
 - [smart-number-inputs](https://github.com/codeclown/smart-number-inputs) – Increment/decrement numbers in text inputs using arrow keys (JS)
+- [native-datepicker](https://github.com/codeclown/native-datepicker) – Styleable datepicker utilizing the native `<input type="date">`
 
 **JS tooling**
 
