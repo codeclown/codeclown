@@ -1,6 +1,6 @@
 **Main projects**
 
-– TBA
+Nothing public (yet)
 
 **JS libraries**
 
