@@ -1,6 +1,6 @@
 **Main projects**
 
-Nothing public (yet)
+- [Shipmight](https://shipmight.com) – PaaS in your Cloud (Kubernetes)
 
 **JS libraries**
 
