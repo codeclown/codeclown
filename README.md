@@ -1,5 +1,6 @@
 **Main projects**
 
+- [Finegram](https://finegram.com) – Diagramming app for power users (Cross-platform)
 - [Shipmight](https://shipmight.com) – PaaS in your Cloud (Kubernetes)
 
 **JS libraries**
