@@ -1,7 +1,19 @@
 **Main projects**
 
-- [Finegram](https://finegram.com) – Diagramming app for power users (Cross-platform)
+- [👉 Finegram](https://finegram.com) – Diagramming app for power users (Cross-platform)
 - [Shipmight](https://shipmight.com) – PaaS in your Cloud (Kubernetes)
+
+**Featured OS contributions**
+
+- [microsoft/vscode #1395](https://github.com/microsoft/vscode/pull/119480): Feature: New command - Delete Duplicate Lines
+- [knex/knex #3440](https://github.com/knex/knex/pull/3440): Fix for concurrent child transactions failing
+- [redhat-developer/yaml-language-server #603](https://github.com/redhat-developer/yaml-language-server/pull/603): Fix relative file paths with fragments
+- [automattic/juice #269](https://github.com/Automattic/juice/pull/269): Bugfix: double quotes in table style attributes
+- [axios/axios #1395](https://github.com/axios/axios/pull/1395): Keep defaults local to instance
+  - Fixed a long-standing security flaw in axios, one of the most popular npm packages of all time. Also [broke custom config options](https://github.com/axios/axios/pull/2207#issuecomment-513168383) while at it.
+- [axios/axios #1845](https://github.com/axios/axios/pull/1845): Allow unsetting headers by passing null
+
+---
 
 **JS libraries**
 
