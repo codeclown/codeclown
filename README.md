@@ -34,4 +34,4 @@
 - [js-import-resolve](https://github.com/codeclown/js-import-resolve) – Sublime plugin for navigating to imports in JS files (Python)
 - [cronedit](https://github.com/codeclown/cronedit) – An interactive command line editor for crontab (C++)
 - [Helppo](https://github.com/codeclown/helppo) – Plug-n-play database management interface (CRUD) (NodeJS)
-- [Shipmight](https://shipmight.com) – PaaS in your Cloud (Kubernetes)
+- [Shipmight](https://github.com/shipmight) – PaaS in your Cloud (Kubernetes)
