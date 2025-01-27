@@ -1,8 +1,3 @@
-**Main projects**
-
-- [👉 Finegram](https://finegram.com) – Diagramming app for power users (Cross-platform)
-- [Shipmight](https://shipmight.com) – PaaS in your Cloud (Kubernetes)
-
 **Featured OS contributions**
 
 - [microsoft/vscode #1395](https://github.com/microsoft/vscode/pull/119480): Feature: New command - Delete Duplicate Lines
@@ -26,6 +21,10 @@
 - [hohhoijaa](https://github.com/codeclown/hohhoijaa) + [Prettier-plugin](https://github.com/codeclown/prettier-plugin-hohhoijaa) – Generate Table of Contents in your Markdown-files (JS)
 - [browserify-plugin-license-notice](https://github.com/codeclown/browserify-plugin-license-notice) – Extract third-party licenses to a file (JS)
 
+**Cross-platform apps**
+
+- [Finegram](https://finegram.com) – Diagramming app for power users (Electron)
+
 **Mac apps**
 
 - [FloatPlayer](https://github.com/codeclown/FloatPlayer) – Play a floating YouTube-video on your screen (Swift)
@@ -35,3 +34,4 @@
 - [js-import-resolve](https://github.com/codeclown/js-import-resolve) – Sublime plugin for navigating to imports in JS files (Python)
 - [cronedit](https://github.com/codeclown/cronedit) – An interactive command line editor for crontab (C++)
 - [Helppo](https://github.com/codeclown/helppo) – Plug-n-play database management interface (CRUD) (NodeJS)
+- [Shipmight](https://shipmight.com) – PaaS in your Cloud (Kubernetes)
