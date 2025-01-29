@@ -1,4 +1,4 @@
-**Featured OS contributions**
+**Featured OSS contributions**
 
 - [microsoft/vscode #1395](https://github.com/microsoft/vscode/pull/119480): Feature: New command - Delete Duplicate Lines
 - [knex/knex #3440](https://github.com/knex/knex/pull/3440): Fix for concurrent child transactions failing
@@ -9,6 +9,10 @@
 - [axios/axios #1845](https://github.com/axios/axios/pull/1845): Allow unsetting headers by passing null
 
 ---
+
+**Web tools**
+
+- [helm-playground](https://github.com/shipmight/helm-playground) – Interactive site to debug Helm templating (Go, Wasm)
 
 **JS libraries**
 
@@ -35,3 +39,9 @@
 - [cronedit](https://github.com/codeclown/cronedit) – An interactive command line editor for crontab (C++)
 - [Helppo](https://github.com/codeclown/helppo) – Plug-n-play database management interface (CRUD) (NodeJS)
 - [Shipmight](https://github.com/shipmight) – PaaS in your Cloud (Kubernetes)
+
+---
+
+**More**
+
+- https://marttilaine.com – Non-dev related links
